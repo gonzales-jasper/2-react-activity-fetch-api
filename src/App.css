@@ -1,0 +1,58 @@
+* {
+  font-family: "Poppins", sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  color: #ffffff;
+  text-align: left;
+  font-size: 15px;
+}
+
+.blue-text {
+  color: #458ebf;
+}
+
+.subtext {
+  color: #aeb0b3;
+  font-size: 13px;
+  font-style: italic;
+}
+
+.card {
+  padding: 20px;
+  background-color: #303343;
+  width: 320px;
+  height: auto;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  border-radius: 10px;
+}
+
+.card .card-header {
+  padding-bottom: 10px;
+  padding-left: 10px;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  border-bottom: 2px solid #999a9c;
+  line-height: 1;
+}
+
+.card .avatar {
+  background-color: #458ebf;
+  padding: 20px;
+  border-radius: 50%;
+  width: 55px;
+  text-align: center;
+}
+
+.card .card-body {
+  padding-bottom: 10px;
+  border-bottom: 2px solid #999a9c;
+}
+
+
+
+/*thak you po!! :>>>>>>
