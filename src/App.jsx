@@ -31,7 +31,7 @@ function App() {
     return <h1>Loading.....</h1>;
   }
 
-  //---------------------------
+  //------------display---------------
   return (
     <>
       <div className="card">
