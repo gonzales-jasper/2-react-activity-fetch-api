@@ -8,6 +8,13 @@
   font-size: 15px;
 }
 
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  align-items: flex-start;
+}
+
 .blue-text {
   color: #458ebf;
 }
